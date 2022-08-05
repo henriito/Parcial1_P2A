@@ -22,10 +22,10 @@ public class ClsComisiones {
     }
     public static void cargaInformacion() {
         comi[0][NOMBRE] = "Mario";
-                    comi[0][ENERO] = String.valueOf(generateRandomIntIntRange(100,400));
-                    comi[0][FEBRERO] = String.valueOf(generateRandomIntIntRange(100,400));
-                    comi[0][MARZO] = String.valueOf(generateRandomIntIntRange(100,400));
-                    comi[0][ABRIL] = String.valueOf(generateRandomIntIntRange(100,400));
+                    comi[0][ENERO] = String.valueOf(generateRandomIntIntRange(300,600));
+                    comi[0][FEBRERO] = String.valueOf(generateRandomIntIntRange(300,600));
+                    comi[0][MARZO] = String.valueOf(generateRandomIntIntRange(300,600));
+                    comi[0][ABRIL] = String.valueOf(generateRandomIntIntRange(300,600));
 
                     comi[1][NOMBRE] = "Henry";
                     comi[1][ENERO] = String.valueOf(generateRandomIntIntRange(600,900));
